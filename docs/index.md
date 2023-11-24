@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Sebs Garden"
   text: "Connecting dots in Sebs mind"
-  tagline: My great project tagline
+  tagline: My great project tagline - The big test
   actions:
     - theme: brand
       text: Markdown Examples
@@ -16,8 +16,8 @@ hero:
 
 features:
   - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+    details: Robotics
+  - title: Feature S
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
