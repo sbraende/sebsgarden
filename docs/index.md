@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Ubuntu
-    details: Robotics
+    details: How to setup ubuntu for robotics
   - title: Omniverse
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Robotics
