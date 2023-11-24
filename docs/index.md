@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: Ubuntu
     details: Robotics
-  - title: Feature S
+  - title: Omniverse
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Robotics
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
